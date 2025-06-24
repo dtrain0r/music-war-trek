@@ -114,4 +114,16 @@ export const artists = [
     artistSpecialPowers:
       'Has a wormhole connected to a distant humanity-colonized planet in the year 2047, occasionally obtaining ability to gain slightly advanced weaponry.',
   },
+  {
+    artistId: '14',
+    artistName: 'Charlie Parker',
+    artistDescription:
+      'One of the greatest saxophonists to ever live, bebop pioneer',
+    artistStrength: '10',
+    artistCharisma: '10',
+    artistAlignment: 'Good',
+    artistIntelligence: '10',
+    artistSpecialPowers:
+      'Minimal body movement while playing instrument.',
+  },
 ];
